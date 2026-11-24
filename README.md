@@ -44,4 +44,4 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT — see [LICENSE](LICENSE). SPDX-License-Identifier: MIT.
