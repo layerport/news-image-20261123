@@ -1,8 +1,8 @@
 # World news in one image — 23 November 2026
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/news-image-20261123)
-[![prize $100](https://img.shields.io/badge/prize-%24100-green)](https://make.fun/bounty/news-image-20261123)
-[![deadline 25 Nov 2026](https://img.shields.io/badge/deadline-25%20Nov%202026-red)](https://make.fun/bounty/news-image-20261123)
+[![make.fun](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/layerport/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/layerport/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123)
 
 Entry for the [make.fun](https://make.fun) bounty
 [news-image-20261123](https://make.fun/bounty/news-image-20261123):
